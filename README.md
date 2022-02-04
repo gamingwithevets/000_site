@@ -7,7 +7,7 @@ Some sources claim that the website "automatically downloads the virus", but thi
 
 The site's address is blurred, but FlyTech hovered over the site title, long enough for the full website title and address to be shown. FlyTech forgot to blur this short segment with the address and left it unblurred.
 
-It turns out it's just a local HTML file opened with Internet Explorer. This was disappointing, as FlyTech never released this file.
+It turns out it's just a local HTML file opened with Internet Explorer (the path is just `C:\Users\FlyTech\Documents\site.html`). This was disappointing, as FlyTech never released this file.
 
 # What I did
 Using Snip & Sketch and Microsoft Paint, I was able to get the original color of the site background.  
