@@ -10,7 +10,7 @@ The site's address is blurred, but FlyTech hovered over the site title, long eno
 It turns out it's just a local HTML file opened with Internet Explorer (the path is just `C:\Users\FlyTech\Documents\site.html`). This was disappointing, as FlyTech never released this file.
 
 # What I did
-Using Snip & Sketch and Microsoft Paint, I was able to get the original color of the site background.  
+Using Snip & Sketch and Microsoft Paint, I was able to get the hex value of the color of the site's background.  
 And I used the original video to ultimately recreate the HTML page.
 
 And since the original page downloaded an unzipped version of the virus, I also downloaded the virus and unzipped it.  
