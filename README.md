@@ -16,7 +16,7 @@ And I used the original video to ultimately recreate the HTML page.
 ~~And since the original page downloaded an unzipped version of the virus, I also downloaded the virus and unzipped it.  
 I have included the original repo license for 000.exe. Please don't sue me, FlyTech!~~
 
-In fear of FlyTech sueing me I linked to the ZIP archive on [FlyTech's 000.exe GitHub repository](https://github.com/FlyTechVideos/000exe/releases/download/1.0/000.zip). Password is 000.
+In fear of FlyTech sueing me I linked to the ZIP archive on [FlyTech's 000.exe GitHub repository](https://github.com/FlyTechVideos/000exe/releases/download/1.0/000.zip). It *is* encrypted with the password `000`, but I'm sure people will figure it out.
 
 # Where is the website?
 It's available at [https://gamingwithevets.github.io/000_site](https://gamingwithevets.github.io/000_site)!  
