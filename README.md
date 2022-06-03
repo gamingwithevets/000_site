@@ -13,8 +13,10 @@ It turns out it's just a local HTML file opened with Internet Explorer (the path
 Using Snip & Sketch and Microsoft Paint, I was able to get the hex value of the color of the site's background.  
 And I used the original video to ultimately recreate the HTML page.
 
-And since the original page downloaded an unzipped version of the virus, I also downloaded the virus and unzipped it.  
-I have included the original repo license for 000.exe. Please don't sue me, FlyTech!
+~~And since the original page downloaded an unzipped version of the virus, I also downloaded the virus and unzipped it.  
+I have included the original repo license for 000.exe. Please don't sue me, FlyTech!~~
+
+In fear of FlyTech sueing me I linked to the ZIP archive on [FlyTech's 000.exe GitHub repository](https://github.com/FlyTechVideos/000exe/releases/download/1.0/000.zip). Password is 000.
 
 # Where is the website?
 It's available at [https://gamingwithevets.github.io/000_site](https://gamingwithevets.github.io/000_site)!  
